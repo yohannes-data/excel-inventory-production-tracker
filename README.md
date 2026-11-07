@@ -4,7 +4,7 @@ An Excel portfolio project for a fictional custom manufacturing workshop. The wo
 
 [![Inventory and production dashboard](dashboard.png)](dashboard.png)
 
-[Download the Excel workbook](Excel_Inventory_Production_Portfolio.xlsx?raw=true)
+[Download the Excel workbook](https://raw.githubusercontent.com/yohannes-data/excel-inventory-production-tracker/refs/heads/main/Excel_Inventory_Production_Portfolio.xlsx)
 
 Select a screenshot to open the image at its full size.
 
